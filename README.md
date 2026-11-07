@@ -24,7 +24,7 @@ Translate PDFs into 30+ languages while keeping the original page layout: column
 - Credit packs (one-time, never expire): 300 pages for $1.99, 2,000 pages for $5.99.
 - 1 credit = 1 translated page. Pages that fail to translate are not charged.
 - There is no page limit on a document.
-- Uploaded files and results are deleted automatically 24 hours after upload.
+- Uploaded files and results are deleted automatically 24 hours after upload (7 days for a verified account).
 
 ## Links
 
